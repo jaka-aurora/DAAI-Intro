@@ -33,4 +33,17 @@ Course was led by
 
 - Python  
 - Jupyter Notebook  
-- Libraries: pandas, numpy, matplotlib, seaborn (etc., depending on your code)
+- Libraries: pandas, numpy, matplotlib, seaborn (etc., depending on your code)  
+
+## How to run notebooks
+
+1. Clone the repository
+2. Create a virtual environment:
+   ```
+   python3 -m venv venv
+   ```  
+3. Install required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```  
+4. Start Jupyter Notebook  
