@@ -23,7 +23,8 @@ Course was led by
 - ex07-data-visualization
 - ex08-K-means-clustering
 - ex09-KNN
-- ex10-Decision-tree  
+- ex10-Decision-tree
+
 **README.md** — This overview and usage instructions
 
 > Each notebook contains commented code, explanations in Markdown, and visual output (plots, charts) where applicable.
