@@ -1,7 +1,6 @@
 # Introduction to Data Analytics and Artificial Intelligence
 
 This repository contains my work from the Introduction to Data Analytics and Artificial Intelligence (DAAI) course at JAMK University of Applied Sciences. It includes multiple Jupyter notebooks that explore fundamental concepts in data analysis and introductory AI techniques using Python. The exercises demonstrate basic data exploration, preprocessing, visualization, and simple model implementation skills.
-Course was led by Antti Häkkinen.
 
 ## Skills Covered
 
