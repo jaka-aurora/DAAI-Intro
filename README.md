@@ -13,7 +13,17 @@ Course was led by
 
 ## Contents
 
-**Exercises/** — A set of Jupyter notebooks with hands-on tasks exploring data analysis and AI topics  
+**Exercises** — A set of Jupyter notebooks with hands-on tasks exploring data analysis and AI topics  
+- ex01-python-fundamentals
+- ex02-python-fundamentals
+- ex03-data-sources
+- ex04-pandas-part-1
+- ex05-pandas-part-2
+- ex06-numpy
+- ex07-data-visualization
+- ex08-K-means-clustering
+- ex09-KNN
+- ex10-Decision-tree  
 **README.md** — This overview and usage instructions
 
 > Each notebook contains commented code, explanations in Markdown, and visual output (plots, charts) where applicable.
