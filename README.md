@@ -49,3 +49,5 @@ This repository contains my work from the Introduction to Data Analytics and Art
 4. Start Jupyter Notebook
 
 > Each notebook is self-contained and can be run independently unless stated otherwise.
+>
+> bla
